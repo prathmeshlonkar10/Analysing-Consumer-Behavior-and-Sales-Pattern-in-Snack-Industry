@@ -55,7 +55,7 @@ The workflow follows a structured analytics pipeline:
 ## Features Used
 Original Dataset Columns:
 
-1) Customer Dataset: `LYLTY_CARD_NBR	`, `LIFESTAGE`, `PREMIUM_CUSTOMER`
+1) Customer Dataset: `LYLTY_CARD_NBR`, `LIFESTAGE`, `PREMIUM_CUSTOMER`
    
 2) Transaction Dataset: `DATE`, `STORE_NBR`, `LYLTY_CARD_NBR`, `TXN_ID`, `PROD_NBR`, `PROD_NAME`, `PROD_QTY`, `TOT_SALES`
 
