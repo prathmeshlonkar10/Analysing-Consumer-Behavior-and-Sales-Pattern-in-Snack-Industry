@@ -8,9 +8,9 @@ This data analytics project investigates customer segmentation, purchasing behav
 
 The analysis uses two primary datasets:
 
-- **Customer Data**: Customer segmentation by life stage (LIFESTAGE) and spending behavior (CUSTOMER_TYPE).
+- **Customer Data**: Customer segmentation by life stage (LIFESTAGE) and spending behavior (CUSTOMER_TYPE); ~ 72,000+ records.
 
-- **Transaction Data**: Purchase transactions including product names, quantities, prices, and dates.
+- **Transaction Data**: Purchase transactions including product names, quantities, prices, and dates; ~ 2,60,000+ records.
 
 Key points:
 
