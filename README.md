@@ -23,34 +23,34 @@ Key points:
 ## Project Structure
 The workflow follows a structured analytics pipeline:
 
-1. Data Preparation
-- Cleaned and feature engineered product names.
+1) Data Preparation
+   - Cleaned and feature engineered product names.
 
-- Fixed transaction date fields.
+   - Fixed transaction date fields.
 
-- Updated column names for better clarity.
+   - Updated column names for better clarity.
 
-2. Feature Engineering
-- Extracted packet size (grams) from product names.
+2) Feature Engineering
+   - Extracted packet size (grams) from product names.
 
-- Calculated total sales per transaction and spend per customer.
+   - Calculated total sales per transaction and spend per customer.
 
-- Aggregated sales data across brands, packet sizes, and customer groups.
+   - Aggregated sales data across brands, packet sizes, and customer groups.
 
-3. Exploratory Data Analysis (EDA)
-- Examined customer demographic distributions.
+3) Exploratory Data Analysis (EDA)
+   - Examined customer demographic distributions.
 
-- Analyzed sales performance by brand and product size.
+   - Analyzed sales performance by brand and product size.
 
-- Identified seasonal patterns in sales volume.
+   - Identified seasonal patterns in sales volume.
 
-4. Statistical Analysis
-- Conducted independent two-sample t-tests to assess spending behavior differences between customer groups.
+4) Statistical Analysis
+   - Conducted independent two-sample t-tests to assess spending behavior differences between customer groups.
 
-- Verified significance of observed behavioral patterns.
+   - Verified significance of observed behavioral patterns.
 
-5. Insights and Strategic Recommendations
-- Synthesized findings into actionable strategies for inventory and marketing optimization.
+5) Insights and Strategic Recommendations
+   - Synthesized findings into actionable strategies for inventory and marketing optimization.
 
 ## Features Used
 Original Dataset Columns:
